@@ -1,0 +1,4 @@
+Enable auto save on app opening :
+False
+Enable email notification on each action :
+False

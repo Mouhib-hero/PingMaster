@@ -1,0 +1,6 @@
+schedule
+tkcalendar
+pycron
+Pillow
+pyodbc
+apscheduler

@@ -1,0 +1,7 @@
+{
+    "receiver_email": "example@mail.fr",
+    "sender_email": "example2@mail.com",
+    "sender_password": "examplepass",    
+    "smtp_server": "smtp.office365.com",
+    "smtp_port": 587
+}
